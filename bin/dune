@@ -1,0 +1,6 @@
+(executables
+ (public_names prime)
+ (names prime)
+ (libraries threads domainslib)
+ (flags (:standard -I +threads))
+ )
