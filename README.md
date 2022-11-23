@@ -1,4 +1,4 @@
 # lab11-prime
 
 ## Run 
-`$ dune exec prime`
+`$ dune exec prime -- filename.txt`
